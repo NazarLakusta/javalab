@@ -1,0 +1,5 @@
+package enums;
+
+public enum CarType {
+ SEDAN, ROADSTER, PICKUP, COUPE, SUPERCAR, MINIVAN, MICRO, CABRIOLET, TRUCK, HATCHBACK, VAN
+}
